@@ -82,12 +82,7 @@ volume.SetMasterVolumeLevel(vol, None)              # Set system volume
 Thanks to **Mediapipe**, **OpenCV**, and **PyCaw** for making this project possible! 🎉
 
 ---
-
-## 📬 Contact
-
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+  
 
 ⭐ **If you like this project, don't forget to give it a star!** ⭐
 
